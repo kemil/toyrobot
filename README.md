@@ -1,2 +1,7 @@
 # toyrobot
-Toy Robot Coding exercise
+Toy Robot Coding Exercise
+
+
+*Execute*
+
+`ruby toyrobot.rb`
