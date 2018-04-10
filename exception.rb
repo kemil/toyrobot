@@ -1,0 +1,1 @@
+class InvalidCommand < Exception ; end
